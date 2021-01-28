@@ -5,7 +5,6 @@ An application, using a solution algorithm that uses logical and relational expr
 ![Variables & IPO Model](https://raw.githubusercontent.com/kiddjsh/Grade-Calculator/main/images/Variable%20%26%20IPO%20Model.PNG)
 
 # Flowchart
-![Flowchart_1](https://raw.githubusercontent.com/kiddjsh/Grade-Calculator/main/images/Flowchart_1.PNG)
 ![Flowchart_2](https://raw.githubusercontent.com/kiddjsh/Grade-Calculator/main/images/Flowchart_2.PNG)
 ![Flowchart_3](https://raw.githubusercontent.com/kiddjsh/Grade-Calculator/main/images/Flowchart_3.PNG)
 ![Flowchart_4](https://raw.githubusercontent.com/kiddjsh/Grade-Calculator/main/images/Flowchart_4.PNG)
