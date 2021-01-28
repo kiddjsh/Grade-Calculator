@@ -1,0 +1,6 @@
+c:\users\kidder\documents\visual studio 2012\Projects\gradecalculator_iLabW4\gradecalculator_iLabW4\bin\Debug\gradecalculator_iLabW4.exe.config
+C:\Users\Kidder\Documents\Visual Studio 2012\Projects\gradecalculator_iLabW4\gradecalculator_iLabW4\obj\Debug\gradecalculator_iLabW4.csprojResolveAssemblyReference.cache
+C:\Users\Kidder\Documents\Visual Studio 2012\Projects\gradecalculator_iLabW4\gradecalculator_iLabW4\bin\Debug\gradecalculator_iLabW4.exe
+C:\Users\Kidder\Documents\Visual Studio 2012\Projects\gradecalculator_iLabW4\gradecalculator_iLabW4\bin\Debug\gradecalculator_iLabW4.pdb
+C:\Users\Kidder\Documents\Visual Studio 2012\Projects\gradecalculator_iLabW4\gradecalculator_iLabW4\obj\Debug\gradecalculator_iLabW4.exe
+C:\Users\Kidder\Documents\Visual Studio 2012\Projects\gradecalculator_iLabW4\gradecalculator_iLabW4\obj\Debug\gradecalculator_iLabW4.pdb
